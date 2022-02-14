@@ -1,0 +1,7 @@
+Data: Sample Super Store 
+
+Task Level: Beginner 
+
+Task: AS a business manager Find out the weak area where we are not geeting  profit up to the mark and required to work these are for improvement.
+
+Technology: Business Intelligence tools 
