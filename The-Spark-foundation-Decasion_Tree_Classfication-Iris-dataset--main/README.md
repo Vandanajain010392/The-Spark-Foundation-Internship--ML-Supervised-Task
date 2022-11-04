@@ -26,13 +26,13 @@ Decision Tree
 Best Model Accuracy: 97.00
  
  
- #2. Task EDA to creat Dasboard for supermarket on data where we required to work to enhance profit usin Power BI 
+ #2. Task EDA to create Dashboard for supermarket on data where we required to work to enhance profit usin Power BI 
 
  
 Data: Sample Super Store 
 
 Task Level: Beginner 
 
-Task: AS a business manager Find out the weak area where we are not geeting  profit up to the mark and required to work these are for improvement.
+Task: AS a business manager Find out the weak area where we are not getting profit up to the mark and required to work these are for improvement.
 
 Technology: Business Intelligence tools 
