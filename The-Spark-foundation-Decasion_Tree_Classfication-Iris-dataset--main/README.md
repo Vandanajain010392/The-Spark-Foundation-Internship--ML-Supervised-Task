@@ -1,4 +1,4 @@
-# The-Spark-foundation-Decasion_Tree_Classfication-Iris-dataset-
+# The-Spark-foundation-Decision_Tree_Classfication-Iris-dataset-
 The Spark Foundation internship 
 
 #1.  Task  to create Decision tree A logo to predict classification   
